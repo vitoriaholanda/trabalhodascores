@@ -1,0 +1,89 @@
+div{
+
+    display: flex;
+    
+    width: 500px;
+    height: 600px;
+    
+    
+}
+.intro{
+    background-color: rgb(205, 152, 255);
+    font-size: 20px;
+}
+.b1{
+    background: rgb(41, 41, 41);
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    
+
+    
+}
+.b2{
+    background:gray;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.b3{
+    background: lightgrey;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+.b4{
+    background: slateblue;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+.b5{
+    background: blue;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+.b6{
+    background: turquoise;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+.b7{
+    background:sienna ;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+.b8{
+    background:wheat ;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+.b9{
+    background: hotpink;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+.b10{
+    background: salmon;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+.b11{
+    background:darkorange ;
+    width: 100px;
+    height: 100px;
+    font-size: 15px;
+}
+.b12{
+    background: thistle;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
